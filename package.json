@@ -4,7 +4,7 @@
   "description": "Various routes for proxy server",
   "main": "index.js",
   "scripts": {
-  	"start": "node ./youtube-streamer/server.js",
+    "start": "node ./youtube-streamer/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abhishek-raj/proxy-server/issues"
   },
-  "homepage": "https://github.com/abhishek-raj/proxy-server#readme"
+  "homepage": "https://github.com/abhishek-raj/proxy-server#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
