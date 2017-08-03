@@ -1,0 +1,20 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Various routes for proxy server",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node ./youtube-streamer/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-raj/proxy-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-raj/proxy-server/issues"
+  },
+  "homepage": "https://github.com/abhishek-raj/proxy-server#readme"
+}
