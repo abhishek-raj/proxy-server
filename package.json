@@ -4,7 +4,7 @@
   "description": "Various routes for proxy server",
   "main": "index.js",
   "scripts": {
-  	"start": "node test.js",
+  	"start": "node ./youtube-streamer/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
